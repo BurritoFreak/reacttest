@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "reacttest",
-			"path": "reacttest"
 		}
 	],
 	"settings": {}
