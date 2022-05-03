@@ -4,8 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-package-lock.json
-sample-01.code-workspace
 
 # testing
 /coverage
@@ -20,8 +18,11 @@ sample-01.code-workspace
 .env.test.local
 .env.production.local
 
+package-lock.json
+sample-01.code-workspace
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-auth_config.json
+# auth_config.json
